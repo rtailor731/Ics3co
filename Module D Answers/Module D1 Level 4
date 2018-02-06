@@ -12,4 +12,7 @@ it would be still in your USB or Hard Drive.
 5. Version control is a component software configuration mangement which is alos known as version control and source control. 
 Version Control allow people to change components inside of the computer, such as major documents, website. All of these components 
 are change to revision umber which computer only read.
-6. 
+6. Distributed Access Control System is a light-weight single sign-on and attribute-based access control system for web servers 
+and server-based software. This basically means one control system covers all of the web servers. Github has one control system covers
+all of the web servers.
+
